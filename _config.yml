@@ -1,0 +1,9 @@
+title: "Tasawwar Hussain | Portfolio"
+description: "Personal portfolio website for Tasawwar Hussain, Meta Ads specialist, video editor, and BSIT scholar."
+url: "https://tasoobalti-cell.github.io"
+baseurl: "/tasawwor-hussain"
+include: ["_pages"]
+exclude: ["README.md", ".gitignore"]
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
